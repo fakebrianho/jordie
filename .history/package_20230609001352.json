@@ -17,6 +17,7 @@
 		"@theatre/core": "^0.6.1",
 		"@theatre/studio": "^0.6.1",
 		"esbuild": "^0.15.7",
+		"fsevents": "^2.3.2",
 		"function-bind": "^1.1.1",
 		"gsap": "^3.12.1",
 		"has": "^1.0.3",
@@ -35,12 +36,12 @@
 		"tweakpane": "^3.1.0",
 		"vite-plugin-glsl": "^0.4.0"
 	},
-	"optionalDependencies": {
-		"fsevents": "*"
-	},
-	"resolutions": {
-		"fsevents": "npm:fsevents"
-	},
+  "optionalDependencies": {
+    "fsevents": "*"
+  },
+  "resolutions": {
+    "fsevents": "npm:fsevents"
+  },
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
