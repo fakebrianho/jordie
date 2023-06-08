@@ -1,0 +1,15 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+canvas {
+	overflow: hidden;
+}
+
+.container {
+}
+#distortion-text {
+	position: absolute;
+	transform: translate(-50%, -50%);
+}

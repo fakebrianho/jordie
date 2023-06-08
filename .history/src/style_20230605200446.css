@@ -1,0 +1,53 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+canvas {
+	overflow: hidden;
+}
+
+.container {
+}
+#distortion-text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#J {
+	position: absolute;
+	top: 20%;
+	left: 17%;
+	transform: translate(-50%, -50%);
+}
+#O {
+	position: absolute;
+	top: 57%;
+	left: 23%;
+	transform: translate(-50%, -50%);
+}
+#R {
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	transform: translate(-50%, -50%);
+}
+#D {
+	position: absolute;
+	top: 77%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#I {
+	position: absolute;
+	top: 53%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+}
+#E {
+	position: absolute;
+	top: 44%;
+	left: 80%;
+	transform: translate(-50%, -50%);
+}

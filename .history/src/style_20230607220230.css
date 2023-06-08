@@ -1,0 +1,89 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+canvas {
+	overflow: hidden;
+}
+
+.container {
+}
+#distortion-text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#J {
+	position: absolute;
+	top: 20%;
+	left: 17%;
+	transform: translate(-50%, -50%);
+	transform: rotate(-15deg);
+}
+#O {
+	position: absolute;
+	top: 37%;
+	left: 23%;
+	transform: translate(-50%, -50%);
+	transform: rotate(-35deg);
+}
+#R {
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	transform: translate(-50%, -50%);
+	transform: rotate(-25deg);
+}
+#D {
+	position: absolute;
+	top: 67%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#I {
+	position: absolute;
+	top: 53%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+}
+#E {
+	position: absolute;
+	top: 44%;
+	left: 70%;
+	transform: translate(-50%, -50%);
+	transform: rotate(35deg);
+}
+
+.instructions {
+	position: absolute;
+	width: 100vw;
+	display: flex;
+	bottom: 10%;
+	justify-content: center;
+	align-items: center;
+}
+
+.instructions p {
+	/* font-family: Verdana, sans-serif; */
+	font-family: 'Courier New', monospace;
+
+	color: white;
+}
+
+#vignette {
+	background: radial-gradient(
+		circle,
+		rgba(0, 0, 0, 0) 10%,
+		rgba(0, 0, 0, 0.6502976190476191) 80%,
+		rgba(0, 0, 0, 1) 100%
+	);
+	height: 100%;
+	left: 0;
+	pointer-events: none;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 5;
+}

@@ -1,0 +1,1090 @@
+{
+  "sheetsById": {
+    "Animated scene": {
+      "staticOverrides": {
+        "byObject": {
+          "0": {
+            "position": {
+              "z": -2,
+              "x": -1.25
+            }
+          },
+          "1": {
+            "position": {
+              "x": 2.5,
+              "y": -0.5
+            }
+          },
+          "2": {
+            "progress": -0.75,
+            "position": {
+              "y": 1.5,
+              "x": 0.75,
+              "z": -8
+            }
+          },
+          "3": {
+            "position": {
+              "z": -15,
+              "x": -1,
+              "y": 0
+            },
+            "progress": 2
+          },
+          "4": {
+            "progress": 0.9873417721518987,
+            "position": {
+              "z": -25,
+              "x": 1,
+              "y": 0.25
+            }
+          },
+          "5": {
+            "progress": 1.5,
+            "position": {
+              "z": -35,
+              "x": -4
+            }
+          },
+          "6": {
+            "position": {
+              "x": 4,
+              "z": -35,
+              "y": 0
+            }
+          },
+          "7": {
+            "progress": 1.569620253164556,
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": -35
+            }
+          },
+          "8": {
+            "progress": 1.2405063291139238,
+            "position": {
+              "y": 0.5
+            }
+          },
+          "9": {
+            "progress": -1.1392405063291136,
+            "position": {
+              "z": -45,
+              "y": 0.75,
+              "x": -2.35
+            }
+          },
+          "10": {
+            "progress": 1.1645569620253164,
+            "position": {
+              "y": 0
+            }
+          },
+          "11": {
+            "progress": 0.9873417721518992,
+            "position": {
+              "z": -47.00000000000002,
+              "y": -1,
+              "x": 0.75
+            }
+          },
+          "12": {
+            "progress": 0.9113924050632916,
+            "position": {
+              "z": -44,
+              "y": 1.25,
+              "x": 2
+            }
+          },
+          "13": {
+            "progress": 1.2911392405063291,
+            "position": {
+              "y": -1,
+              "z": -44,
+              "x": -1
+            }
+          },
+          "14": {
+            "progress": 1.1898734177215189,
+            "position": {
+              "y": 1.3,
+              "x": -0.5,
+              "z": -44
+            }
+          },
+          "15": {
+            "progress": 1.2658227848101269,
+            "position": {
+              "y": -0.76,
+              "z": -44,
+              "x": 1
+            }
+          },
+          "16": {
+            "progress": 0.936708860759494,
+            "position": {
+              "y": 0
+            }
+          },
+          "17": {
+            "progress": -2,
+            "position": {
+              "x": 1.4,
+              "y": -0.8,
+              "z": -43.5
+            }
+          },
+          "camera": {
+            "position": {
+              "y": 3.0061616997868384e-16
+            }
+          }
+        }
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 77.79,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "0": {
+            "trackData": {
+              "Ngao-t0nVj": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "0:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "MB7LGXnAE4",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.25
+                  },
+                  {
+                    "id": "N5Qf4QUs6T",
+                    "position": 1.533,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.25
+                  },
+                  {
+                    "id": "h-emSThGoh",
+                    "position": 5.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "Ngao-t0nVj"
+            }
+          },
+          "1": {
+            "trackData": {
+              "IKWzuQlkhG": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "1:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "Uab-j4FLmu",
+                    "position": -2.467,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -2
+                  },
+                  {
+                    "id": "dCxGVAJyZh",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.25
+                  },
+                  {
+                    "id": "c4zw4oadws",
+                    "position": 2.4,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.25
+                  },
+                  {
+                    "id": "iODGwxu3hV",
+                    "position": 6.433,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "IKWzuQlkhG"
+            }
+          },
+          "2": {
+            "trackData": {
+              "zYdJTbjSNp": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "2:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "m3Q-AY6uNh",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.75
+                  },
+                  {
+                    "id": "I1s9ZC6O7J",
+                    "position": 3.567,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.5
+                  },
+                  {
+                    "id": "u1ULAStffi",
+                    "position": 7.1,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "zYdJTbjSNp"
+            }
+          },
+          "3": {
+            "trackData": {
+              "Gg2PnPgnLe": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "3:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "aS9aBN3D16",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.75
+                  },
+                  {
+                    "id": "-pBOQ5qGJY",
+                    "position": 5.4,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.75
+                  },
+                  {
+                    "id": "wrnoD8u7Bu",
+                    "position": 9.933,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "Gg2PnPgnLe"
+            }
+          },
+          "4": {
+            "trackData": {
+              "vwRiwGlwUH": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "4:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "ex6gJCp6Tf",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.734177215189873
+                  },
+                  {
+                    "id": "U4cxbTcmIE",
+                    "position": 11.167,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.75
+                  },
+                  {
+                    "id": "8KEwhysOtv",
+                    "position": 16.667,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "vwRiwGlwUH"
+            }
+          },
+          "5": {
+            "trackData": {
+              "woBaXHGBw3": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "5:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "kWiLszaL5h",
+                    "position": 17.467,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.2088607594936704
+                  },
+                  {
+                    "id": "dno1-U-2mZ",
+                    "position": 22.2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.5
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "woBaXHGBw3"
+            }
+          },
+          "6": {
+            "trackData": {
+              "s4QHI5S1uw": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "6:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "ZUUm01cwV0",
+                    "position": 18.367,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.2
+                  },
+                  {
+                    "id": "b4pml9J0Tx",
+                    "position": 23.6,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.5
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "s4QHI5S1uw"
+            }
+          },
+          "7": {
+            "trackData": {
+              "FZViii3ALV": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "7:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "-GbmFC6yzr",
+                    "position": 21.233,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.2405063291139244
+                  },
+                  {
+                    "id": "bByqRjXg5q",
+                    "position": 24.833,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.569620253164556
+                  },
+                  {
+                    "id": "INJW0Knyof",
+                    "position": 27.167,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.4936708860759484
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "FZViii3ALV"
+            }
+          },
+          "8": {
+            "trackData": {
+              "ajhloj6Igw": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "8:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "EJm199mmQw",
+                    "position": 25.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.8101265822784818
+                  },
+                  {
+                    "id": "aVmkhprQGo",
+                    "position": 30.133,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.2405063291139238
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "ajhloj6Igw"
+            }
+          },
+          "9": {
+            "trackData": {
+              "w3bafzbC4q": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "9:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "d1EuZVoSVa",
+                    "position": 28.5,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.1392405063291136
+                  },
+                  {
+                    "id": "NDX8cFzMXK",
+                    "position": 30.167,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.5443037974683544
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "w3bafzbC4q"
+            }
+          },
+          "10": {
+            "trackData": {
+              "F_UkMI22da": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "10:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "i9LKvDekxu",
+                    "position": 28.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.9873417721518992
+                  },
+                  {
+                    "id": "cVWotyuil_",
+                    "position": 30.967,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.1645569620253164
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "F_UkMI22da"
+            }
+          },
+          "11": {
+            "trackData": {
+              "8xIUkp0lrZ": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "11:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "39nzOhuG_V",
+                    "position": 29.333,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.9873417721518988
+                  },
+                  {
+                    "id": "nuYnYn3VGY",
+                    "position": 31.3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.9873417721518992
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "8xIUkp0lrZ"
+            }
+          },
+          "12": {
+            "trackData": {
+              "0nyUd8jQ_U": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "12:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "FCQ2TPwTf4",
+                    "position": 30.467,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.9367088607594936
+                  },
+                  {
+                    "id": "GI97ypcFsQ",
+                    "position": 32.867,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.9113924050632916
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "0nyUd8jQ_U"
+            }
+          },
+          "13": {
+            "trackData": {
+              "wi2fxxv-e-": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "13:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "yXfQE0M6AK",
+                    "position": 31.933,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.2658227848101264
+                  },
+                  {
+                    "id": "b29w-z_wqA",
+                    "position": 34.167,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.4683544303797464
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "wi2fxxv-e-"
+            }
+          },
+          "14": {
+            "trackData": {
+              "6Z4-4cN9qq": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "14:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "2VyzrD90wH",
+                    "position": 33.3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.0126582278481013
+                  },
+                  {
+                    "id": "sYiMrxp3kn",
+                    "position": 35.633,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.1898734177215189
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "6Z4-4cN9qq"
+            }
+          },
+          "15": {
+            "trackData": {
+              "Kxy6INyvdP": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "15:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "2VbXdmopXy",
+                    "position": 34.733,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -0.9101265822784806
+                  },
+                  {
+                    "id": "5DB903t8hq",
+                    "position": 37.3,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 1.2658227848101269
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "Kxy6INyvdP"
+            }
+          },
+          "16": {
+            "trackData": {
+              "GVC1AByUKP": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "16:[\"progress\"]",
+                "keyframes": [
+                  {
+                    "id": "4J6GuTDyYL",
+                    "position": 35.7,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -1.1392405063291136
+                  },
+                  {
+                    "id": "VTaBAPMPRV",
+                    "position": 38.9,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0.936708860759494
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "GVC1AByUKP"
+            }
+          },
+          "17": {
+            "trackData": {
+              "vzlCSoSBe7": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "17:[\"progress\"]",
+                "keyframes": []
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"progress\"]": "vzlCSoSBe7"
+            }
+          },
+          "Torus Knot": {
+            "trackData": {
+              "abrK22lSsP": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"x\"]",
+                "keyframes": []
+              },
+              "RjZsB3MKea": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"y\"]",
+                "keyframes": []
+              },
+              "RCTq7WRAud": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Torus Knot:[\"rotation\",\"z\"]",
+                "keyframes": []
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"rotation\",\"x\"]": "abrK22lSsP",
+              "[\"rotation\",\"y\"]": "RjZsB3MKea",
+              "[\"rotation\",\"z\"]": "RCTq7WRAud"
+            }
+          },
+          "camera": {
+            "trackData": {
+              "Z15sQrESWX": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "camera:[\"position\",\"x\"]",
+                "keyframes": []
+              },
+              "UQ-l-AlG1U": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "camera:[\"position\",\"y\"]",
+                "keyframes": []
+              },
+              "J-V5HereSl": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "camera:[\"position\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "lJQG1bgaSk",
+                    "position": 1.933,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 5
+                  },
+                  {
+                    "id": "eQ-WEAAHIf",
+                    "position": 10.4,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -8.444231497506786
+                  },
+                  {
+                    "id": "qrnZ9Qc6t7",
+                    "position": 15.167,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -20
+                  },
+                  {
+                    "id": "ywHNcLF9rs",
+                    "position": 16.167,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -20
+                  },
+                  {
+                    "id": "GIzsPC0FJr",
+                    "position": 20.4,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -25
+                  },
+                  {
+                    "id": "hVry6jT8kL",
+                    "position": 25.4,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -25
+                  },
+                  {
+                    "id": "XJ-2wwLJSS",
+                    "position": 30.2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -40
+                  },
+                  {
+                    "id": "BceRcSpn6j",
+                    "position": 47.367,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -40
+                  },
+                  {
+                    "id": "waQjzSheGe",
+                    "position": 72.767,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 2.151757899421451
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"position\",\"x\"]": "Z15sQrESWX",
+              "[\"position\",\"y\"]": "UQ-l-AlG1U",
+              "[\"position\",\"z\"]": "J-V5HereSl"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "gVRXLxJJYaSigg5N"
+  ]
+}
